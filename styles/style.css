@@ -58,16 +58,44 @@ color: rgb(0, 0, 0);
     width: 120px;
   height: 47px;
 }
+.review{
+  text-align: center;
+    margin-top: 127px;
+    background-image:url(../legal-solution-resources/images/banner.png) ;
+    width: 1173px;
+    height: 380px;
+    align-content: center;
+    margin-left: 385px;
+    opacity: 0.9W;
+}
 .carding{
    
   margin: 200px 20%;}
   .buy-card{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    
 }
 .card{
     padding: 22px;
 }
 .center{
   text-align: center;
+}
+.Legal{
+  font-size: 40px;
+}
+.redious{
+  border-radius: 70%;
+  width: 70px;
+  height: 70px;
+}
+.Client{
+ text-align: center;
+    margin-top: 127px;
+   
+    width: 1173px;
+    height: 60px;
+    align-content: center;
+    margin-left: 350px;
 }
